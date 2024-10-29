@@ -8,7 +8,7 @@
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [Framework](#framework)
-  - [Angular]()
+  - [Angular  ( NG )]()
   - [React]()
   - [Vue]()
   - [Svelte]()  
