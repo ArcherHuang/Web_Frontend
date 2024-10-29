@@ -10,7 +10,8 @@
 - [Framework](#framework)
   - [Angular]()
   - [React]()
-  - [Vue]()  
+  - [Vue]()
+  - [Svelte]()  
 - [ICON](#icon)
 - [webpack](#webpack)
 
@@ -40,6 +41,8 @@
   * https://react.dev/ 
 * Vue
   * https://vuejs.org/
+* Svelte
+  * https://svelte.dev/  
   
 ## ICON
 * https://fonts.google.com/icons
