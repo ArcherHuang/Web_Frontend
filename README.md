@@ -17,11 +17,20 @@
 ## JavaScript
 * https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide
 
+## TypeScript
+* https://www.typescriptlang.org/
+
 ## ICON
 * https://fonts.google.com/icons
 * https://ionic.io/ionicons
 
 ## Framework
+* Angular
+  * https://angular.tw/ 
+* React
+  * https://react.dev/ 
+* Vue
+  * https://vuejs.org/ 
 
 ## webpack
 * https://webpack.js.org/
