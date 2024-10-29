@@ -35,7 +35,7 @@
 * https://www.typescriptlang.org/
 
 ## Framework
-* Angular
+* Angular ( NG )
   * https://angular.tw/ 
 * React
   * https://react.dev/ 
