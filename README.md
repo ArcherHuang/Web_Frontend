@@ -15,6 +15,7 @@
 - [ICON](#icon)
 - [webpack](#webpack)
 - [Wireframe](#wireframe)
+- [VSCode Extensions](#vscode-extensions)
 - [Books](#books)
 
 ## HTML
@@ -57,6 +58,14 @@
 * [Figma](https://www.figma.com/)
 * [miro](https://miro.com/wireframe/)
 * [Lucidchart](https://www.lucidchart.com/pages/examples/wireframe_software)
+
+## VSCode Extensions
+* [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
+* [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Books
 * [CSS 大全](https://www.tenlong.com.tw/products/9786263247826?list_name=srh)
