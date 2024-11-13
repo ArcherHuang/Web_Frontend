@@ -16,6 +16,7 @@
 - [webpack](#webpack)
 - [Wireframe](#wireframe)
 - [VSCode Extensions](#vscode-extensions)
+- [JSON](#json)
 - [Books](#books)
 
 ## HTML
@@ -67,6 +68,11 @@
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## JSON
+* https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON
+* https://jsoneditoronline.org/
+* https://www.json.org/json-en.html
 
 ## Books
 * [CSS 大全](https://www.tenlong.com.tw/products/9786263247826?list_name=srh)
