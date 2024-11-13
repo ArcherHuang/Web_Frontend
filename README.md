@@ -46,6 +46,7 @@
   * https://react.dev/ 
 * Vue
   * https://vuejs.org/
+  * https://v2.vuejs.org/v2/guide/
 * Svelte
   * https://svelte.dev/  
 
