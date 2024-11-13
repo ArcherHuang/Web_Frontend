@@ -79,6 +79,5 @@
 ## Books
 * [CSS 大全](https://www.tenlong.com.tw/products/9786263247826?list_name=srh)
 * [JavaScript 大全](https://www.tenlong.com.tw/products/9789865027322?list_name=rd)
-* [重新認識 Vue.js：008天絕對看不完的 Vue.js 3 指南](https://www.tenlong.com.tw/products/9789864345687?list_name=srh)
 
 
