@@ -32,6 +32,8 @@
     * https://getbootstrap.com/docs/5.3/components/accordion/
   * Tailwind CSS
     * https://tailwindui.com/documentation
+  * PrimeVue
+    * https://primevue.org/
 
 ## JavaScript
 * https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide
