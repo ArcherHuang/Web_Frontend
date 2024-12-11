@@ -57,6 +57,7 @@
 * https://fonts.google.com/icons
 * https://ionic.io/ionicons
 * https://phosphoricons.com/
+* https://icons.pqoqubbw.dev/
 
 ## webpack
 * https://webpack.js.org/
