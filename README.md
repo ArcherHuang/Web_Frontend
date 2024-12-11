@@ -58,6 +58,7 @@
 * https://ionic.io/ionicons
 * https://phosphoricons.com/
 * https://icons.pqoqubbw.dev/
+* https://www.flaticon.com/
 
 ## webpack
 * https://webpack.js.org/
