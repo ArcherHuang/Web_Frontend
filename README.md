@@ -60,7 +60,9 @@
 * https://icons.pqoqubbw.dev/
 * https://www.flaticon.com/
 * https://toolfolio.io/blog/free-and-premium-icons-library
-
+* AI Color
+  * https://aicolors.co/
+  
 ## webpack
 * https://webpack.js.org/
 
