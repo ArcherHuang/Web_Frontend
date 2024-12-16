@@ -59,6 +59,7 @@
 * https://phosphoricons.com/
 * https://icons.pqoqubbw.dev/
 * https://www.flaticon.com/
+* https://toolfolio.io/blog/free-and-premium-icons-library
 
 ## webpack
 * https://webpack.js.org/
