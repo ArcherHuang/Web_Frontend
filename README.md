@@ -18,6 +18,7 @@
 - [VSCode Extensions](#vscode-extensions)
 - [JSON](#json)
 - [Books](#books)
+- [Other Resource](#other-resource)
 
 ## HTML
 * https://www.w3schools.com/html/
