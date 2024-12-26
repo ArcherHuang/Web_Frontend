@@ -60,6 +60,7 @@
 * https://icons.pqoqubbw.dev/
 * https://www.flaticon.com/
 * https://toolfolio.io/blog/free-and-premium-icons-library
+* https://fontawesome.com/search?p=2&o=r&m=free
 * AI Color
   * https://aicolors.co/
   
@@ -89,4 +90,7 @@
 * [CSS 大全](https://www.tenlong.com.tw/products/9786263247826?list_name=srh)
 * [JavaScript 大全](https://www.tenlong.com.tw/products/9789865027322?list_name=rd)
 
-
+## Other Resource
+* https://cssloaders.github.io/
+* https://uiverse.io/elements?page=1
+* https://mobbin.com/
