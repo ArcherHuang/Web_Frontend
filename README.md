@@ -81,6 +81,7 @@
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+* [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 
 ## JSON
 * https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON
